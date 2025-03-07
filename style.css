@@ -55,7 +55,7 @@ nav ul li a:hover {
         width: 100%;
     }
     .container {
-        flex-direction: row;
+        flex-direction: column;
         text-align: center;
     }
 
